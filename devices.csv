@@ -1,107 +1,107 @@
 Device Identifier;Device Name;Device Manufacturer;Bluetooth Version
 i386;iPhone Simulator;Apple;N/A
 x86_64;iPhone Simulator;Apple;N/A
-iPhone1,1;iPhone;Apple;Bluetooth 2.0 + EDR
-iPhone1,2;iPhone 3G;Apple;Bluetooth 2.0 + EDR
-iPhone2,1;iPhone 3GS;Apple;Bluetooth 2.1 + EDR
-iPhone3,1;iPhone 4;Apple;Bluetooth 2.1 + EDR
-iPhone3,2;iPhone 4 GSM Rev A;Apple;Bluetooth 2.1 + EDR
-iPhone3,3;iPhone 4 CDMA;Apple;Bluetooth 2.1 + EDR
-iPhone4,1;iPhone 4S;Apple;Bluetooth 4.0
-iPhone5,1;iPhone 5 (GSM);Apple;Bluetooth 4.0
-iPhone5,2;iPhone 5 (GSM+CDMA);Apple;Bluetooth 4.0
-iPhone5,3;iPhone 5C (GSM);Apple;Bluetooth 4.0
-iPhone5,4;iPhone 5C (Global);Apple;Bluetooth 4.0
-iPhone6,1;iPhone 5S (GSM);Apple;Bluetooth 4.0
-iPhone6,2;iPhone 5S (Global);Apple;Bluetooth 4.0
-iPhone7,1;iPhone 6 Plus;Apple;Bluetooth 4.2
-iPhone7,2;iPhone 6;Apple;Bluetooth 4.2
-iPhone8,1;iPhone 6s;Apple;Bluetooth 4.2
-iPhone8,2;iPhone 6s Plus;Apple;Bluetooth 4.2
-iPhone8,3;iPhone SE (GSM+CDMA);Apple;Bluetooth 4.2
-iPhone8,4;iPhone SE (GSM);Apple;Bluetooth 4.2
-iPhone9,1;iPhone 7;Apple;Bluetooth 4.2
-iPhone9,2;iPhone 7 Plus;Apple;Bluetooth 4.2
-iPhone9,3;iPhone 7;Apple;Bluetooth 4.2
-iPhone9,4;iPhone 7 Plus;Apple;Bluetooth 4.2
-iPhone10,1;iPhone 8;Apple;Bluetooth 5.0
-iPhone10,2;iPhone 8 Plus;Apple;Bluetooth 5.0
-iPhone10,3;iPhone X Global;Apple;Bluetooth 5.0
-iPhone10,4;iPhone 8;Apple;Bluetooth 5.0
-iPhone10,5;iPhone 8 Plus;Apple;Bluetooth 5.0
-iPhone10,6;iPhone X GSM;Apple;Bluetooth 5.0
-iPhone11,2;iPhone XS;Apple;Bluetooth 5.0
-iPhone11,4;iPhone XS Max;Apple;Bluetooth 5.0
-iPhone11,6;iPhone XS Max Global;Apple;Bluetooth 5.0
-iPhone11,8;iPhone XR;Apple;Bluetooth 5.0
+iPhone1,1;iPhone;Apple;2.0 + EDR
+iPhone1,2;iPhone 3G;Apple;2.0 + EDR
+iPhone2,1;iPhone 3GS;Apple;2.1 + EDR
+iPhone3,1;iPhone 4;Apple;2.1 + EDR
+iPhone3,2;iPhone 4 GSM Rev A;Apple;2.1 + EDR
+iPhone3,3;iPhone 4 CDMA;Apple;2.1 + EDR
+iPhone4,1;iPhone 4S;Apple;4.0
+iPhone5,1;iPhone 5 (GSM);Apple;4.0
+iPhone5,2;iPhone 5 (GSM+CDMA);Apple;4.0
+iPhone5,3;iPhone 5C (GSM);Apple;4.0
+iPhone5,4;iPhone 5C (Global);Apple;4.0
+iPhone6,1;iPhone 5S (GSM);Apple;4.0
+iPhone6,2;iPhone 5S (Global);Apple;4.0
+iPhone7,1;iPhone 6 Plus;Apple;4.2
+iPhone7,2;iPhone 6;Apple;4.2
+iPhone8,1;iPhone 6s;Apple;4.2
+iPhone8,2;iPhone 6s Plus;Apple;4.2
+iPhone8,3;iPhone SE (GSM+CDMA);Apple;4.2
+iPhone8,4;iPhone SE (GSM);Apple;4.2
+iPhone9,1;iPhone 7;Apple;4.2
+iPhone9,2;iPhone 7 Plus;Apple;4.2
+iPhone9,3;iPhone 7;Apple;4.2
+iPhone9,4;iPhone 7 Plus;Apple;4.2
+iPhone10,1;iPhone 8;Apple;5.0
+iPhone10,2;iPhone 8 Plus;Apple;5.0
+iPhone10,3;iPhone X Global;Apple;5.0
+iPhone10,4;iPhone 8;Apple;5.0
+iPhone10,5;iPhone 8 Plus;Apple;5.0
+iPhone10,6;iPhone X GSM;Apple;5.0
+iPhone11,2;iPhone XS;Apple;5.0
+iPhone11,4;iPhone XS Max;Apple;5.0
+iPhone11,6;iPhone XS Max Global;Apple;5.0
+iPhone11,8;iPhone XR;Apple;5.0
 iPod1,1;1st Gen iPod;Apple;N/A
-iPod2,1;2nd Gen iPod;Apple;Bluetooth 2.1 + EDR
-iPod3,1;3rd Gen iPod;Apple;Bluetooth 2.1 + EDR
-iPod4,1;4th Gen iPod;Apple;Bluetooth 2.1 + EDR
-iPod5,1;5th Gen iPod;Apple;Bluetooth 4.0
-iPod7,1;6th Gen iPod;Apple;Bluetooth 4.1
-iPad1,1;iPad;Apple;Bluetooth 2.1 + EDR
-iPad1,2;iPad 3G;Apple;Bluetooth 2.1 + EDR
-iPad2,1;2nd Gen iPad;Apple;Bluetooth 2.1 + EDR
-iPad2,2;2nd Gen iPad GSM;Apple;Bluetooth 2.1 + EDR
-iPad2,3;2nd Gen iPad CDMA;Apple;Bluetooth 2.1 + EDR
-iPad2,4;2nd Gen iPad New Revision;Apple;Bluetooth 2.1 + EDR
-iPad3,1;3rd Gen iPad;Apple;Bluetooth 4.0
-iPad3,2;3rd Gen iPad CDMA;Apple;Bluetooth 4.0
-iPad3,3;3rd Gen iPad GSM;Apple;Bluetooth 4.0
-iPad2,5;iPad mini;Apple;Bluetooth 4.0
-iPad2,6;iPad mini GSM+LTE;Apple;Bluetooth 4.0
-iPad2,7;iPad mini CDMA+LTE;Apple;Bluetooth 4.0
-iPad3,4;4th Gen iPad;Apple;Bluetooth 4.0
-iPad3,5;4th Gen iPad GSM+LTE;Apple;Bluetooth 4.0
-iPad3,6;4th Gen iPad CDMA+LTE;Apple;Bluetooth 4.0
-iPad4,1;iPad Air (WiFi);Apple;Bluetooth 4.0
-iPad4,2;iPad Air (GSM+CDMA);Apple;Bluetooth 4.0
-iPad4,3;1st Gen iPad Air (China);Apple;Bluetooth 4.0
-iPad4,4;iPad mini Retina (WiFi);Apple;Bluetooth 4.0
-iPad4,5;iPad mini Retina (GSM+CDMA);Apple;Bluetooth 4.0
-iPad4,6;iPad mini Retina (China);Apple;Bluetooth 4.0
-iPad4,7;iPad mini 3 (WiFi);Apple;Bluetooth 4.0
-iPad4,8;iPad mini 3 (GSM+CDMA);Apple;Bluetooth 4.0
-iPad4,9;iPad Mini 3 (China);Apple;Bluetooth 4.0
-iPad5,1;iPad mini 4 (WiFi);Apple;Bluetooth 4.0
-iPad5,2;4th Gen iPad mini (WiFi+Cellular);Apple;Bluetooth 4.0
-iPad5,3;iPad Air 2 (WiFi);Apple;Bluetooth 4.2
-iPad5,4;iPad Air 2 (Cellular);Apple;Bluetooth 4.2
-iPad6,3;iPad Pro (9.7 inch, WiFi);Apple;Bluetooth 4.2
-iPad6,4;iPad Pro (9.7 inch, WiFi+LTE);Apple;Bluetooth 4.2
-iPad6,7;iPad Pro (12.9 inch, WiFi);Apple;Bluetooth 4.2
-iPad6,8;iPad Pro (12.9 inch, WiFi+LTE);Apple;Bluetooth 4.2
-iPad6,11;iPad (2017);Apple;Bluetooth 4.2
-iPad6,12;iPad (2017);Apple;Bluetooth 4.2
-iPad7,1;iPad Pro 2nd Gen (WiFi);Apple;Bluetooth 4.2
-iPad7,2;iPad Pro 2nd Gen (WiFi+Cellular);Apple;Bluetooth 4.2
-iPad7,3;iPad Pro 10.5-inch;Apple;Bluetooth 4.2
-iPad7,4;iPad Pro 10.5-inch;Apple;Bluetooth 4.2
-iPad7,5;iPad 6th Gen (WiFi);Apple;Bluetooth 4.2
-iPad7,6;iPad 6th Gen (WiFi+Cellular);Apple;Bluetooth 4.2
-iPad8,1;iPad Pro 3rd Gen (11 inch, WiFi);Apple;Bluetooth 5.0
-iPad8,2;iPad Pro 3rd Gen (11 inch, 1TB, WiFi);Apple;Bluetooth 5.0
-iPad8,3;iPad Pro 3rd Gen (11 inch, WiFi+Cellular);Apple;Bluetooth 5.0
-iPad8,4;iPad Pro 3rd Gen (11 inch, 1TB, WiFi+Cellular);Apple;Bluetooth 5.0
-iPad8,5;iPad Pro 3rd Gen (12.9 inch, WiFi);Apple;Bluetooth 5.0
-iPad8,6;iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi);Apple;Bluetooth 5.0
-iPad8,7;iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular);Apple;Bluetooth 5.0
-iPad8,8;iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi+Cellular);Apple;Bluetooth 5.0
-Watch1,1;Apple Watch 38mm case;Apple;Bluetooth 4.0
-Watch1,2;Apple Watch 38mm case;Apple;Bluetooth 4.0
-Watch2,6;Apple Watch Series 1 38mm case;Apple;Bluetooth 4.0
-Watch2,7;Apple Watch Series 1 42mm case;Apple;Bluetooth 4.0
-Watch2,3;Apple Watch Series 2 38mm case;Apple;Bluetooth 4.0
-Watch2,4;Apple Watch Series 2 42mm case;Apple;Bluetooth 4.0
-Watch3,1;Apple Watch Series 3 38mm case (GPS+Cellular);Apple;Bluetooth 5.0
-Watch3,2;Apple Watch Series 3 42mm case (GPS+Cellular);Apple;Bluetooth 5.0
-Watch3,3;Apple Watch Series 3 38mm case (GPS);Apple;Bluetooth 5.0
-Watch3,4;Apple Watch Series 3 42mm case (GPS);Apple;Bluetooth 5.0
-Watch4,1;Apple Watch Series 4 40mm case (GPS);Apple;Bluetooth 5.0
-Watch4,2;Apple Watch Series 4 44mm case (GPS);Apple;Bluetooth 5.0
-Watch4,3;Apple Watch Series 4 40mm case (GPS+Cellular);Apple;Bluetooth 5.0
-Watch4,4;Apple Watch Series 4 44mm case (GPS+Cellular);Apple;Bluetooth 5.0
+iPod2,1;2nd Gen iPod;Apple;2.1 + EDR
+iPod3,1;3rd Gen iPod;Apple;2.1 + EDR
+iPod4,1;4th Gen iPod;Apple;2.1 + EDR
+iPod5,1;5th Gen iPod;Apple;4.0
+iPod7,1;6th Gen iPod;Apple;4.1
+iPad1,1;iPad;Apple;2.1 + EDR
+iPad1,2;iPad 3G;Apple;2.1 + EDR
+iPad2,1;2nd Gen iPad;Apple;2.1 + EDR
+iPad2,2;2nd Gen iPad GSM;Apple;2.1 + EDR
+iPad2,3;2nd Gen iPad CDMA;Apple;2.1 + EDR
+iPad2,4;2nd Gen iPad New Revision;Apple;2.1 + EDR
+iPad3,1;3rd Gen iPad;Apple;4.0
+iPad3,2;3rd Gen iPad CDMA;Apple;4.0
+iPad3,3;3rd Gen iPad GSM;Apple;4.0
+iPad2,5;iPad mini;Apple;4.0
+iPad2,6;iPad mini GSM+LTE;Apple;4.0
+iPad2,7;iPad mini CDMA+LTE;Apple;4.0
+iPad3,4;4th Gen iPad;Apple;4.0
+iPad3,5;4th Gen iPad GSM+LTE;Apple;4.0
+iPad3,6;4th Gen iPad CDMA+LTE;Apple;4.0
+iPad4,1;iPad Air (WiFi);Apple;4.0
+iPad4,2;iPad Air (GSM+CDMA);Apple;4.0
+iPad4,3;1st Gen iPad Air (China);Apple;4.0
+iPad4,4;iPad mini Retina (WiFi);Apple;4.0
+iPad4,5;iPad mini Retina (GSM+CDMA);Apple;4.0
+iPad4,6;iPad mini Retina (China);Apple;4.0
+iPad4,7;iPad mini 3 (WiFi);Apple;4.0
+iPad4,8;iPad mini 3 (GSM+CDMA);Apple;4.0
+iPad4,9;iPad Mini 3 (China);Apple;4.0
+iPad5,1;iPad mini 4 (WiFi);Apple;4.0
+iPad5,2;4th Gen iPad mini (WiFi+Cellular);Apple;4.0
+iPad5,3;iPad Air 2 (WiFi);Apple;4.2
+iPad5,4;iPad Air 2 (Cellular);Apple;4.2
+iPad6,3;iPad Pro (9.7 inch, WiFi);Apple;4.2
+iPad6,4;iPad Pro (9.7 inch, WiFi+LTE);Apple;4.2
+iPad6,7;iPad Pro (12.9 inch, WiFi);Apple;4.2
+iPad6,8;iPad Pro (12.9 inch, WiFi+LTE);Apple;4.2
+iPad6,11;iPad (2017);Apple;4.2
+iPad6,12;iPad (2017);Apple;4.2
+iPad7,1;iPad Pro 2nd Gen (WiFi);Apple;4.2
+iPad7,2;iPad Pro 2nd Gen (WiFi+Cellular);Apple;4.2
+iPad7,3;iPad Pro 10.5-inch;Apple;4.2
+iPad7,4;iPad Pro 10.5-inch;Apple;4.2
+iPad7,5;iPad 6th Gen (WiFi);Apple;4.2
+iPad7,6;iPad 6th Gen (WiFi+Cellular);Apple;4.2
+iPad8,1;iPad Pro 3rd Gen (11 inch, WiFi);Apple;5.0
+iPad8,2;iPad Pro 3rd Gen (11 inch, 1TB, WiFi);Apple;5.0
+iPad8,3;iPad Pro 3rd Gen (11 inch, WiFi+Cellular);Apple;5.0
+iPad8,4;iPad Pro 3rd Gen (11 inch, 1TB, WiFi+Cellular);Apple;5.0
+iPad8,5;iPad Pro 3rd Gen (12.9 inch, WiFi);Apple;5.0
+iPad8,6;iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi);Apple;5.0
+iPad8,7;iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular);Apple;5.0
+iPad8,8;iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi+Cellular);Apple;5.0
+Watch1,1;Apple Watch 38mm case;Apple;4.0
+Watch1,2;Apple Watch 38mm case;Apple;4.0
+Watch2,6;Apple Watch Series 1 38mm case;Apple;4.0
+Watch2,7;Apple Watch Series 1 42mm case;Apple;4.0
+Watch2,3;Apple Watch Series 2 38mm case;Apple;4.0
+Watch2,4;Apple Watch Series 2 42mm case;Apple;4.0
+Watch3,1;Apple Watch Series 3 38mm case (GPS+Cellular);Apple;5.0
+Watch3,2;Apple Watch Series 3 42mm case (GPS+Cellular);Apple;5.0
+Watch3,3;Apple Watch Series 3 38mm case (GPS);Apple;5.0
+Watch3,4;Apple Watch Series 3 42mm case (GPS);Apple;5.0
+Watch4,1;Apple Watch Series 4 40mm case (GPS);Apple;5.0
+Watch4,2;Apple Watch Series 4 44mm case (GPS);Apple;5.0
+Watch4,3;Apple Watch Series 4 40mm case (GPS+Cellular);Apple;5.0
+Watch4,4;Apple Watch Series 4 44mm case (GPS+Cellular);Apple;5.0
 Smartfren Andromax AD681H;;;N/A
 FJL21;;;N/A
 MediaPad 7 Youth 2;;;N/A

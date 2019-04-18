@@ -45,7 +45,7 @@ class MobileDeviceDefinitionsDownloader:
                 self.csv['Device Identifier'].append(row[0].strip())
                 self.csv['Device Name'].append(row[1].strip())
                 self.csv['Device Manufacturer'].append('Apple')
-                self.csv['Bluetooth Version'].append(row[2].strip())
+                self.csv['Bluetooth Version'].append(row[2].replace("Bluetooth", "").strip())
         # parse android device csv
         with open('{}/android.txt'.format('downloads'), mode='r') as android_csv_file:
             csv_reader = csv.reader(android_csv_file, delimiter=',')
